@@ -1,5 +1,5 @@
 #-------------------------------
-[WHISPJR]
+[WHISPYJR]
 # horizontal shift, vertical shift
 BackSprite = 0,0
 # horizontal shift, vertical shift
