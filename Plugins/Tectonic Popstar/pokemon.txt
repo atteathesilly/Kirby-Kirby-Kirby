@@ -1,7 +1,7 @@
 #-------------------------------
 [5002]
 Name = Whisp Jr.
-InternalName = WHISPJR
+InternalName = WHISPYJR
 Type1 = GRASS
 # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
 BaseStats = 60,60,60,30,50,60
