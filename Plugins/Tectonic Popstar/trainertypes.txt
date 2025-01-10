@@ -1,0 +1,6 @@
+#-------------------------------
+[QUIZTRAINERTYPE]
+Name = Test Trainer
+Gender = Female
+BaseMoney = 24
+BattleBGM = POKEFAN

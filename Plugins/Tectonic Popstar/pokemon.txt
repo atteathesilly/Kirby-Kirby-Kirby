@@ -1,0 +1,26 @@
+#-------------------------------
+[5002]
+Name = Whisp Jr.
+InternalName = WHISPJR
+Type1 = GRASS
+# HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
+BaseStats = 60,60,60,30,50,60
+# Total = 360
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 64
+Rareness = 150
+Happiness = 50
+Abilities = TESTABILITY
+Moves = 1,TESTMOVE
+LineMoves = TESTMOVE
+Tribes = DECEIVER
+StepsToHatch = 5355
+Height = 0.7
+Weight = 6.9
+Color = Green
+Shape = Head
+Kind = Test
+Pokedex = This Pokemon exists just to test the PBS Extensions system.
+Generation = 0
+Evolutions = TESTPOKEMON2,Level,16
