@@ -1,3 +1,3 @@
 ﻿Name      = TECTONIC POPSTAR
 Requires  = Tectonic Modding Base
-Credits   = Attea the Silly and Valrex
+Credits   = Attea the Silly and Valrex for the actual mod. The Ultra Nerd for creating the sprites and Pokémon Puffy Pink
