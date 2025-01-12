@@ -159,5 +159,5 @@ Weight = 8.5
 Color = Red
 Shape = Head
 Kind = Sun
-Pokedex = Mr. Shine is not here due to their divorce
+Pokedex = He stole several signature, this guy needs to be stopped.
 Generation = 0
