@@ -25,3 +25,17 @@ Flags = CanProtect,CanMirrorMove,Blade
 EffectChance = 100
 Description = The user calls in their pal, Mr. Shine. During eclipse, the target also becomes burned.
 Animation = MOONBLAST
+#-------------------------------
+[PODSLAMABAM]
+Name = Pod Slam-a-Bam
+Type = BUG
+Category = Physical
+Power = 70
+Accuracy = 100
+TotalPP = 10
+Target = AllNearFoes
+FunctionCode = LowerTargetSpd2
+Flags = CanProtect,CanMirrorMove,Blade
+EffectChance = 100
+Description = The user slings a pod of webs at nearby foes. This lowers the target's speed stat by two steps
+Animation = STICKYWEB
