@@ -39,3 +39,17 @@ Flags = CanProtect,CanMirrorMove,Blade
 EffectChance = 100
 Description = The user slings a pod of webs at nearby foes. This lowers the target's speed stat by two steps
 Animation = STICKYWEB
+#-------------------------------
+[NEEDLETRAP]
+Name = Needle Trap
+Type = BUG
+Category = Physical
+Power = 70
+Accuracy = 100
+TotalPP = 10
+Target = NearOther
+FunctionCode = BindTarget3
+Flags = CanProtect,CanMirrorMove,Blade
+EffectChance = 100
+Description = The user throws needles or spears at the target. The target is then trapped for 3 turns.
+Animation = TWINEEDLE
