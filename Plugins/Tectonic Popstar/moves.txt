@@ -53,3 +53,16 @@ Flags = CanProtect,CanMirrorMove,Blade
 EffectChance = 100
 Description = The user throws needles or spears at the target. The target is then trapped for 3 turns.
 Animation = TWINEEDLE
+#-------------------------------
+[DYNASBLADE]
+Name = Dyna's Blade
+Type = FLYING
+Category = Physical
+Power = 85
+Accuracy = 100
+TotalPP = 12
+Target = NearOther
+FunctionCode = DoesSpecialDamage
+Flags = CanProtect,CanMirrorMove,Blade
+Description = The user attacks with their wings sending blade-like wind to opponents, dealing damage through their Sp. Def rather than their Defense.
+Animation = AIRSLASH
