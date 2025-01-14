@@ -66,3 +66,15 @@ FunctionCode = DoesSpecialDamage
 Flags = CanProtect,CanMirrorMove,Blade
 Description = The user attacks with their wings sending blade-like wind to opponents, dealing damage through their Sp. Def rather than their Defense.
 Animation = AIRSLASH
+#-------------------------------
+[PRIMALTORMENT]
+Name = Primal Torment
+Type = DARK
+Category = Status
+Accuracy = 100
+TotalPP = 1
+Target = AllNearFoes
+FunctionCode = EmpoweredTorment
+Flags = CanProtect,CanMirrorMove,Empowered
+Description = The user torments all near foes, preventing them from repeating moves. The user becomes Dark-type.
+Animation = TORMENT
