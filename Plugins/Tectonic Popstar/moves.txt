@@ -78,3 +78,31 @@ FunctionCode = EmpoweredTorment
 Flags = CanProtect,CanMirrorMove,Empowered
 Description = The user torments all near foes, preventing them from repeating moves. The user becomes Dark-type.
 Animation = TORMENT
+#-------------------------------
+[CAPTHROW]
+Name = Cap Throw
+Type = GRASS
+Category = Special
+Power = 80
+Accuracy = 100
+TotalPP = 15
+Target = NearOther
+FunctionCode = Sleep
+Flags = CanProtect,CanMirrorMove
+EffectChance = 50
+Description = The user throws their mushroom cap covered in spores. 50% chance to sleep.
+Animation = SLAM
+#-------------------------------
+[HATSOFF]
+Name = Hats off to you
+Type = GRASS
+Category = Special
+Power = 60
+Accuracy = 100
+TotalPP = 15
+Target = NearOther
+FunctionCode = Poison
+Flags = CanProtect,CanMirrorMove
+EffectChance = 100
+Description = The user throws their mushroom cap covered in poisonous powder. Always poisons
+Animation = SLAM
