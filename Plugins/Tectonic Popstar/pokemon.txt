@@ -1150,7 +1150,7 @@ Evolutions = ORBSERVOR,Level,22
 [8042]
 Name = Orbservor
 InternalName = ORBSERVOR
-Type1 = FLYING
+Type1 = GROUND
 Type2 = NORMAL
 # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
 BaseStats = 120,60,65,40,100,75
