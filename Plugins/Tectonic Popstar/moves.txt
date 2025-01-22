@@ -106,3 +106,16 @@ Flags = CanProtect,CanMirrorMove
 EffectChance = 100
 Description = The user throws their mushroom cap covered in poisonous powder. Always poisons
 Animation = SLAM
+#-------------------------------
+[EYEROLL]
+Name = Eye Roll
+Type = NORMAL
+Category = Physical
+Power = 30
+Accuracy = 100
+TotalPP = 30
+Target = NearOther
+FunctionCode = RockRoll
+Flags = CanProtect,CanMirrorMove
+Description = The user who is a giant fucking eye rolls into the target. Its power doubles if it hits in succession.
+Animation = ROLLOUT
