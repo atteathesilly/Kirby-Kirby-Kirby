@@ -119,3 +119,16 @@ FunctionCode = RockRoll
 Flags = CanProtect,CanMirrorMove
 Description = The user who is a giant fucking eye rolls into the target. Its power doubles if it hits in succession.
 Animation = ROLLOUT
+#-------------------------------
+[PETALPLOW]
+Name = Petal Plow
+Type = GRASS
+Category = Physical
+Power = 100
+Accuracy = 100
+TotalPP = 12
+Target = NearOther
+FunctionCode = RecoilQuarterOfDamageDealt
+Flags = CanProtect,CanMirrorMove
+Description = The user rams into the opponent with their flowery head. The user also takes 25% recoil.
+Animation = FRENZYPLANT
