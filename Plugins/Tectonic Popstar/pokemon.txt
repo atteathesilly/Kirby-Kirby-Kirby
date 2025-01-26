@@ -1424,3 +1424,58 @@ Shape = Head
 Kind = Animal
 Pokedex = Gotta love gaoi
 Generation = 0
+#-------------------------------
+[8052]
+Name = Boxin
+InternalName = BOXIN
+Type1 = FIGHTING
+Type2 = NORMAL
+# HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
+BaseStats = 50,80,35,75,25,55
+# Total = 510
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 159
+EffortPoints = 0,0,0,0,0,2
+Rareness = 45
+Happiness = 50
+Abilities = KNUCKLEDUSTER,FRUSTRATE
+Moves = 1,TACKLE,1,HELPINGHAND,1,FAKEOUT,1,FOCUSENERGY,4,SCRATCH,8,PROTECT,12,MACHPUNCH,16,LOWKICK,20,FURYSWIPES,24,POWERUPPUNCH,28,WIDEGUARD,28,QUICKGUARD,32,FIREPUNCH,36,SLASH,40,DRAINPUNCH,44,ICEPUNCH,48,MEGAPUNCH,52,BAR,56,DOUBLEEDGE,60,FOCUSPUNCH
+TutorMoves = AGILITY,AURASPHERE,CAUSTICPUNCH,CLOSECOMBAT,COACHING,DRAINPUNCH,DYNAMICPUNCH,FIREPUNCH,FLING,FOCUSBLAST,FOCUSPUNCH,ICEPUNCH,METEORASSAULT,PIXIEPUNCH,POWERUPPUNCH,REVENGE,ROCKTOMB,STONEEDGE,THROATCHOP,THUNDERPUNCH
+Compatibility = Field
+StepsToHatch = 6630
+Height = 1.4
+Weight = 50.2
+Color = Brown
+Shape = Head
+Kind = Punching Dog
+Pokedex = What the dog doing
+Generation = 0
+Evolutions = BOXBOXER,Level,28
+#-------------------------------
+[8053]
+Name = Box Boxer
+InternalName = BOXBOXER
+Type1 = FIGHTING
+Type2 = NORMAL
+# HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
+BaseStats = 70,100,55,85,50,80
+# Total = 510
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 159
+EffortPoints = 0,0,0,0,0,2
+Rareness = 45
+Happiness = 50
+Abilities = KNUCKLEDUSTER,FRUSTRATE
+Moves = 1,TACKLE,1,HELPINGHAND,1,FAKEOUT,1,FOCUSENERGY,4,SCRATCH,8,PROTECT,12,MACHPUNCH,16,LOWKICK,20,FURYSWIPES,24,POWERUPPUNCH,28,WIDEGUARD,28,QUICKGUARD,32,FIREPUNCH,36,SLASH,40,DRAINPUNCH,44,ICEPUNCH,48,MEGAPUNCH,52,BAR,56,DOUBLEEDGE,60,FOCUSPUNCH
+TutorMoves = AGILITY,AURASPHERE,CAUSTICPUNCH,CLOSECOMBAT,COACHING,DRAINPUNCH,DYNAMICPUNCH,FIREPUNCH,FLING,FOCUSBLAST,FOCUSPUNCH,ICEPUNCH,METEORASSAULT,PIXIEPUNCH,POWERUPPUNCH,REVENGE,ROCKTOMB,STONEEDGE,THROATCHOP,THUNDERPUNCH
+Compatibility = Field
+StepsToHatch = 6630
+Height = 1.4
+Weight = 50.2
+Color = Brown
+Shape = Head
+Kind = Punching Dog
+Pokedex = I forgot what I was gonna write for this guy, uhhh watch the Saltydkdan friendlocke.
+Generation = 0
