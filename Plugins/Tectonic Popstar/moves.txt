@@ -132,3 +132,17 @@ FunctionCode = RecoilQuarterOfDamageDealt
 Flags = CanProtect,CanMirrorMove
 Description = The user rams into the opponent with their flowery head. The user also takes 25% recoil.
 Animation = FRENZYPLANT
+#-------------------------------
+[BEAMATTACK]
+Name = Beam Attack
+Type = PSYCHIC
+Category = Special
+Power = 80
+Accuracy = 100
+TotalPP = 15
+Target = NearOther
+FunctionCode = Numb
+Flags = CanProtect,CanMirrorMove
+EffectChance = 50
+Description = The user attacks the target with a beam attack. 50% chance to Numb.
+Animation = THUNDERBOLT
