@@ -146,3 +146,16 @@ Flags = CanProtect,CanMirrorMove
 EffectChance = 50
 Description = The user attacks the target with a beam attack. 50% chance to Numb.
 Animation = THUNDERBOLT
+#-------------------------------
+[HAMMERFLIP]
+Name = Super Hammer Flip
+Type = FIGHTING
+Category = Physical
+Power = 90
+Accuracy = 100
+TotalPP = 12
+Target = NearOther
+FunctionCode = TwoTurnAttackInvulnerableInSky
+Flags = CanProtect,CanMirrorMove
+Description = The user soars into the sky using a bugged hammer, becoming invulnerable, then strikes with said hammer on the second turn.
+Animation = WOODHAMMER
