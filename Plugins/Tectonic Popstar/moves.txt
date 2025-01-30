@@ -159,3 +159,16 @@ FunctionCode = TwoTurnAttackInvulnerableInSky
 Flags = CanProtect,CanMirrorMove
 Description = The user soars into the sky using a bugged hammer, becoming invulnerable, then strikes with said hammer on the second turn.
 Animation = WOODHAMMER
+#-------------------------------
+[LAVABOMB]
+Name = Lava Bomb
+Type = FIRE
+Category = Special
+Power = 90
+Accuracy = 100
+TotalPP = 10
+Target = NearOther
+FunctionCode = TwoTurnAttackInvulnerableUnderwater
+Flags = CanProtect,CanMirrorMove
+Description = The user heads into the background, becoming invincible, then attacks on the second turn.
+Animation = LAVAPLUME
