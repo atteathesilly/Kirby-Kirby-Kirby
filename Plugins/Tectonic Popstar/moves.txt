@@ -172,3 +172,16 @@ FunctionCode = TwoTurnAttackInvulnerableUnderwater
 Flags = CanProtect,CanMirrorMove
 Description = The user heads into the background, becoming invincible, then attacks on the second turn.
 Animation = LAVAPLUME
+#-------------------------------
+[MEGATONPUNCH]
+Name = Megaton Punch
+Type = FIGHTING
+Category = Physical
+Power = 110
+Accuracy = 100
+TotalPP = 12
+Target = NearOther
+FunctionCode = Icebreaker
+Flags = CanProtect,CanMagicCoat,CanMirrorMove,Wind
+Description = The user shatters the ground with a punch to clear all hazards and hit the opponent. The user suffers 33% recoil.
+Animation = EARTHQUAKE
