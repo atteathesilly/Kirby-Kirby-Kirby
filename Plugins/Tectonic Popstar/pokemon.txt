@@ -1842,9 +1842,9 @@ Height = 0.5
 Weight = 70.0
 Color = Brown
 Shape = Head
-Kind = Sand Heap
-Pokedex = It likes the shovel on its head, so Sandygast will get serious and fight any children who come to take it back.
-Generation = 7
+Kind = Sand Lizard
+Pokedex = I don't like sand, its course, rough and it gets everywhere.
+Generation = 0
 WildItemUncommon = SOFTSAND
 #-------------------------------
 [8067]
@@ -1902,4 +1902,59 @@ Color = Yellow
 Shape = Head
 Kind = Armored
 Pokedex = Curse this lady for forcing compromises in Star Allies nuzlockes.
+Generation = 0
+#-------------------------------
+[8069]
+Name = Mr. P. Umpkin
+InternalName = MRPUMPKIN
+Type1 = GRASS
+Type2 = PSYCHIC
+# HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
+BaseStats = 50,40,40,65,75,65
+# Total = 530
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 186
+EffortPoints = 0,0,0,0,2,0
+Rareness = 45
+Happiness = 70
+Abilities = REALIST,FASCINATE
+Moves = 1,WORRYSEED,1,ESSENCEARROW,3,MINDWAVES,6,MINDLINK,9,CLASH,12,SYNTHESIS,15,KICKSTART,18,PSYBEAM,21,BULLETSEED,24,DIAMETRICBREATH,27,SUNSHINE,30,PSYCHIC,33,POLARIZEDROOM,36,ENERGYBALL,40,REFLECT,40,LIGHTSCREEN,44,PARTINGSHOT,48,OCCULTATION,52,SOLARBEAM,56,RISINGPOWER,60,PSYCHICOVERLOAD
+Compatibility = Grass
+Tribe = ANIMATED
+StepsToHatch = 5355
+Height = 2.0
+Weight = 120.0
+Color = Yellow
+Shape = Head
+Kind = Pumpkin
+Pokedex = The jack o latern, MUAHAHAHAHA, the chocolate ice, MUHAAHAHA
+Generation = 0
+Evolutions = SQUASHINI,Item,LEAFSTONE
+#-------------------------------
+[8070]
+Name = Squashini
+InternalName = SQUASHINI
+Type1 = GRASS
+Type2 = PSYCHIC
+# HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
+BaseStats = 80,40,60,100,105,95
+# Total = 530
+GenderRate = Female50Percent
+GrowthRate = Medium
+BaseEXP = 186
+EffortPoints = 0,0,0,0,2,0
+Rareness = 45
+Happiness = 70
+Abilities = REALIST,FASCINATE
+Moves = 0,BOMBSTRAP,1,WORRYSEED,1,ESSENCEARROW,3,MINDWAVES,6,MINDLINK,9,CLASH,12,SYNTHESIS,15,KICKSTART,18,PSYBEAM,21,BULLETSEED,24,DIAMETRICBREATH,27,SUNSHINE,30,PSYCHIC,33,POLARIZEDROOM,36,ENERGYBALL,40,REFLECT,40,LIGHTSCREEN,44,PARTINGSHOT,48,OCCULTATION,52,SOLARBEAM,56,RISINGPOWER,60,PSYCHICOVERLOAD
+Compatibility = Grass
+Tribe = ANIMATED
+StepsToHatch = 5355
+Height = 2.0
+Weight = 120.0
+Color = Yellow
+Shape = Head
+Kind = Pumpkin
+Pokedex = Well then, you asked for it, there is a bomb strapped to my chest.
 Generation = 0
