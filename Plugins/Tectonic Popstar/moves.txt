@@ -182,6 +182,19 @@ Accuracy = 100
 TotalPP = 12
 Target = NearOther
 FunctionCode = Icebreaker
-Flags = CanProtect,CanMagicCoat,CanMirrorMove,Wind
+Flags = CanProtect,CanMagicCoat,CanMirrorMove,Punch
 Description = The user shatters the ground with a punch to clear all hazards and hit the opponent. The user suffers 33% recoil.
 Animation = EARTHQUAKE
+#-------------------------------
+[SANDCASTLE]
+Name = Sand Castle
+Type = GROUND
+Category = Special
+Power = 70
+Accuracy = 100
+TotalPP = 10
+Target = NearOther
+FunctionCode = RaiseUserDef4
+Flags = CanProtect,CanMirrorMove
+Description = The user attacks using a sandcastle, this raises the users defense four steps.
+Animation = SANDTOMB
