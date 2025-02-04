@@ -209,3 +209,17 @@ Target = NearOther
 FunctionCode = StartPerishCountsForAllBattlers
 Description = Squashini does a fun trick and straps a bomb to the targets chest, they will die in three turns, unless it switches out of battle.
 Animation = TRICK
+#-------------------------------
+[SCIENCELAB]
+Name = Science Lab
+Type = POISON
+Category = Special
+Power = 80
+Accuracy = 100
+TotalPP = 10
+Target = NearOther
+FunctionCode = NumbBurnOrFrostbiteTarget
+Flags = CanProtect,CanMirrorMove
+EffectChance = 45
+Description = The user strikes a strange concoction. It has a 15% chance each to numb, burn, or frostbite.
+Animation = ACID
