@@ -223,3 +223,16 @@ Flags = CanProtect,CanMirrorMove
 EffectChance = 45
 Description = The user strikes a strange concoction. It has a 15% chance each to numb, burn, or frostbite.
 Animation = ACID
+#-------------------------------
+[STONESMASH]
+Name = Stone Smash
+Type = ROCK
+Category = Physical
+Power = 80
+Accuracy = 100
+TotalPP = 5
+Target = NearOther
+Priority = 1
+FunctionCode = ProtectUser
+Flags = CanProtect,CanMirrorMove
+Description = The user transforms into a stone statue while in the air, this has priority and protects the user.
