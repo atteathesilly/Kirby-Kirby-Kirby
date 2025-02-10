@@ -1,6 +1,12 @@
 #-------------------------------
-[TESTICLEABILITY]
-Name = Test Ability
-Description = This ability exists just to showcase the PBS Extensions system.
-# Makes it not appear in game except in DEBUG mode
-Flags = Test
+[MIRACULOUS]
+Name = Miraculous
+Description = The user changes type with its moves, but it becomes weak to that type
+#-------------------------------
+[PITCHBLACK]
+Name = Pitch Black
+Description = Normal moves change to dark and have a 50% boost.
+#-------------------------------
+[SPACEPARASITE]
+Name = Space Parasite
+Description = The user has a 50% resistance to all types besides ice, which it is 50% more weak to
