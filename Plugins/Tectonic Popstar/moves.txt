@@ -276,3 +276,18 @@ FunctionCode = StealsItem
 Flags = CanProtect,CanMirrorMove
 Description = The user attacks and steals the foe's held item simultaneously. Items stolen from wild Pokémon are stored.
 Animation = THUNDER
+#-------------------------------
+[ICEWALL]
+Name = Ice Wall Maker
+Type = ICE
+Category = Physical
+Power = 55
+Accuracy = 100
+TotalPP = 12
+Target = AllNearFoes
+Priority = 2
+FunctionCode = ProtectUserSideFromMultiTargetMoves
+Flags = CanProtect,CanMirrorMove,Wind
+EffectChance = 100
+Description = The user makes an ice wall where the opponent it. It also protects the user's side from multihit moves
+Animation = ICYWIND
