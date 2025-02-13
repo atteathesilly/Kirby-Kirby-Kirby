@@ -291,3 +291,16 @@ Flags = CanProtect,CanMirrorMove,Wind
 EffectChance = 100
 Description = The user makes an ice wall where the opponent it. It also protects the user's side from multihit moves
 Animation = ICYWIND
+#-------------------------------
+[BUILDSNAP]
+Name = Building Snap
+Type = ROCK
+Category = Physical
+Power = 70
+Accuracy = 100
+TotalPP = 15
+Target = NearOther
+FunctionCode = DoubleDamageFirstTurn
+Flags = CanProtect,CanMirrorMove,Biting
+Description = The user surprise attacks by biting from inside its building. This deals double damage on the user's first turn out.
+Animation = CRUNCH
