@@ -2493,3 +2493,30 @@ Shape = Head
 Kind = Building Turtle
 Pokedex = Mr Leongar the Capsule J2 has hit the second tortuilding.
 Generation = 0
+#-------------------------------
+[7999]
+Name = Kirby?
+InternalName = ANTIKIRBY
+Type1 = DARK
+# HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
+BaseStats = 80,80,80,80,80,80
+# Total = 288
+GenderRate = Genderless
+GrowthRate = Medium
+BaseEXP = 101
+EffortPoints = 1,0,0,0,0,0
+Rareness = 150
+Happiness = 50
+Abilities = STURDY
+Moves = 1,FAKERINHALE,5,PROTECT,15,SELFDESTRUCT,40,EXPLOSION
+Compatibility = Ditto
+Tribes = DECEIVER
+StepsToHatch = 5355
+Height = 0.3
+Weight = 4.0
+Color = Brown
+Shape = Head
+Kind = Fake Kirby
+Pokedex = I found you, faker!
+Generation = 0
+Flags = Legendary

@@ -304,3 +304,15 @@ FunctionCode = DoubleDamageFirstTurn
 Flags = CanProtect,CanMirrorMove,Biting
 Description = The user surprise attacks by biting from inside its building. This deals double damage on the user's first turn out.
 Animation = CRUNCH
+#-------------------------------
+[FAKERINHALE]
+Name = Inhale?
+Type = DARK
+Category = Adaptive
+Power = 250
+Accuracy = 100
+TotalPP = 1
+Target = NearOther
+FunctionCode = ReplaceMoveWithTargetLastMoveUsed
+Flags = CantForce
+Description = It enables the user to permanently learn the move last used by the foe. Once used, Inhale disappears.
