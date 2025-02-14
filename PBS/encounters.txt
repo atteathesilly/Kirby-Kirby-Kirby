@@ -1121,3 +1121,7 @@ Puddle,15
     20,KINGDRA,62,64
     20,PELIPPER,62,64
     20,ZEBSTRIKA,62,64
+#-------------------------------
+[927] # Popstar Island
+Puddle,15
+    100,WADDLEDOO,5,6
