@@ -3105,8 +3105,15 @@ Bicycle = false
 #-------------------------------
 [927]
 # Popstar Island
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = false
 MapPosition = 0,1,14
 BattleBack = 
 WildBattleBGM = Triple Triad.mid
 WildVictoryME = Battle victory wild.ogg
 TrainerVictoryME = Battle victory.ogg
+Environment = Grass
+SavingBlocked = false
+NoTeamEditing = false
