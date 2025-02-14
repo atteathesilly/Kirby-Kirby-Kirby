@@ -1123,5 +1123,7 @@ Puddle,15
     20,ZEBSTRIKA,62,64
 #-------------------------------
 [927] # Popstar Island
+Land,20
+    100,FLORA,5,6
 Puddle,15
     100,WADDLEDOO,5,6
