@@ -3117,3 +3117,17 @@ TrainerVictoryME = Battle victory.ogg
 Environment = Grass
 SavingBlocked = false
 NoTeamEditing = false
+#-------------------------------
+[928]
+# Popstar island cave
+Outdoor = false
+ShowArea = false
+Bicycle = true
+Temperature = Stable
+WildBattleBGM = normal_battle_v2.mid
+WildVictoryME = VICTORYWILDPOKEMONHGSS.ogg
+WildCaptureME = VICTORYWILDPOKEMONHGSS.ogg
+Environment = Cave
+TeleportBlocked = false
+SavingBlocked = false
+NoTeamEditing = false
