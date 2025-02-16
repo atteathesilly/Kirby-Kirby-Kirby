@@ -1137,3 +1137,7 @@ DarkCave,20
     100,MOOKIE,5,6
 Puddle,15
     100,BLINKBAT,5,6
+FloweryGrass,20
+    100,KRACKOJR,5,6
+FloweryGrass2,20
+    100,KABU,5,6
